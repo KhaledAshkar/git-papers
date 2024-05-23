@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 ## super cool
 
 Written by me and all of my frirnds
-
-hon l fare2
+ha jenn
+hon l fare2: ho l changes 
+=======
+## Wow
+This is new ok: hayda mn gheir branch
+>>>>>>> 1a07176eeecaad72ff77a1e4417485b6c4667fde
 
 hi, thats my ne journal! wait for it
 thats a really big prob

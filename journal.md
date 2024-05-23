@@ -1,5 +1,8 @@
 ## super cool
+
 Written by me and all of my frirnds
+
+hon l fare2
 
 hi, thats my ne journal! wait for it
 thats a really big prob
